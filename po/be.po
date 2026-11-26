@@ -1,0 +1,38 @@
+# Belarusian translation for dash-to-dock GNOME Shell extension
+# Łasačka <saikinmirai@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dash-to-dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-30 10:20+0300\n"
+"PO-Revision-Date: 2025-10-15 12:42+0300\n"
+"Last-Translator: Łasačka <saikinmirai@gmail.com>\n"
+"Language-Team: Belarusian\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Gtranslator 49.0\n"
+
+#: Settings.ui
+msgid "Magnify icons on hover"
+msgstr "Павелічэнне значкоў пры навядзенні"
+
+#: Settings.ui
+msgid "Enlarge the icons under the mouse pointer, like the macOS dock."
+msgstr "Павялічваць значкі пад указальнікам мышы, як у доку macOS."
+
+#: Settings.ui
+msgid "Magnification size"
+msgstr "Памер павелічэння"
+
+#: prefs.js
+msgid "Hide icon backgrounds"
+msgstr "Схаваць фон значкоў"
+
+#: prefs.js
+msgid "Bounce icons when launching apps"
+msgstr "Падскокванне значкоў пры запуску праграм"

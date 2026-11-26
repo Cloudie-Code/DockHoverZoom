@@ -1,0 +1,43 @@
+# Polish translation for dash-to-dock GNOME Shell extension
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dash-to-dock package.
+#
+#
+# Piotr Sokół <psokol.l10n@gmail.com>, 2012, 2013, 2015, 2016, 2017.
+# Tomasz Bojanowski <tomasz@bojanowski.me>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 55\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-21 08:15+0200\n"
+"PO-Revision-Date: 2026-09-22 13:39+0200\n"
+"Last-Translator: Tomasz Bojanowski <tomasz@bojanowski.me>\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Gtranslator 50.0\n"
+
+#: Settings.ui
+msgid "Magnify icons on hover"
+msgstr "Powiększanie ikon po najechaniu"
+
+#: Settings.ui
+msgid "Enlarge the icons under the mouse pointer, like the macOS dock."
+msgstr "Powiększa ikony pod kursorem myszy, jak w doku systemu macOS."
+
+#: Settings.ui
+msgid "Magnification size"
+msgstr "Stopień powiększenia"
+
+#: prefs.js
+msgid "Hide icon backgrounds"
+msgstr "Ukryj tło ikon"
+
+#: prefs.js
+msgid "Bounce icons when launching apps"
+msgstr "Podskakiwanie ikon podczas uruchamiania aplikacji"

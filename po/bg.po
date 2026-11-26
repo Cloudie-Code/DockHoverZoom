@@ -1,0 +1,37 @@
+# dash-to-dock Bulgarian translation
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dash-to-dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-30 10:20+0300\n"
+"PO-Revision-Date: 2024-08-30 10:34+0300\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 46.1\n"
+
+#: Settings.ui
+msgid "Magnify icons on hover"
+msgstr "Увеличаване на иконите при посочване"
+
+#: Settings.ui
+msgid "Enlarge the icons under the mouse pointer, like the macOS dock."
+msgstr ""
+"Уголемяване на иконите под показалеца на мишката, като в дока на macOS."
+
+#: Settings.ui
+msgid "Magnification size"
+msgstr "Размер на увеличението"
+
+#: prefs.js
+msgid "Hide icon backgrounds"
+msgstr "Скриване на фона на иконите"
+
+#: prefs.js
+msgid "Bounce icons when launching apps"
+msgstr "Подскачане на иконите при стартиране на приложения"

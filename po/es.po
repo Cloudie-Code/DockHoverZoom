@@ -1,0 +1,41 @@
+# Dash to Dock spanish translation.
+# This file is distributed under the same license as the Dash to Dock package.
+# Hugo Olabera <hugolabe@gmail.com>, 2015.
+# hasecilu <hasecilu@tuta.io>, 2023.
+# David Astillero Pérez <dastillero@gmail.com>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash to Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-09-08 05:40+0200\n"
+"PO-Revision-Date: 2026-09-15 18:32+0200\n"
+"Last-Translator: David Astillero Pérez <dastillero@gmail.com>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 50.0\n"
+
+#: Settings.ui
+msgid "Magnify icons on hover"
+msgstr "Ampliar los iconos al pasar el ratón"
+
+#: Settings.ui
+msgid "Enlarge the icons under the mouse pointer, like the macOS dock."
+msgstr ""
+"Agrandar los iconos bajo el puntero del ratón, como en el dock de macOS."
+
+#: Settings.ui
+msgid "Magnification size"
+msgstr "Tamaño de la ampliación"
+
+#: prefs.js
+msgid "Hide icon backgrounds"
+msgstr "Ocultar el fondo de los iconos"
+
+#: prefs.js
+msgid "Bounce icons when launching apps"
+msgstr "Hacer que los iconos reboten al abrir aplicaciones"

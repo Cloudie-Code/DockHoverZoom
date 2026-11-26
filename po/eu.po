@@ -1,0 +1,39 @@
+# Dash to Dock Basque translation.
+# This file is distributed under the same license as the Dash to Dock package.
+# Ibai Oihanguren Sala <ibaios@disroot.org>, 2020-2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash To Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-13 21:49+0200\n"
+"PO-Revision-Date: 2026-05-13 22:19+0200\n"
+"Last-Translator: Ibai Oihanguren Sala <ibaios@disroot.org>\n"
+"Language-Team: Basque\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 50.0\n"
+
+#: Settings.ui
+msgid "Magnify icons on hover"
+msgstr "Handitu ikonoak gainetik pasatzean"
+
+#: Settings.ui
+msgid "Enlarge the icons under the mouse pointer, like the macOS dock."
+msgstr ""
+"Handitu saguaren erakuslearen azpiko ikonoak, macOS-eko atrakagunean bezala."
+
+#: Settings.ui
+msgid "Magnification size"
+msgstr "Handitzearen tamaina"
+
+#: prefs.js
+msgid "Hide icon backgrounds"
+msgstr "Ezkutatu ikonoen atzeko planoa"
+
+#: prefs.js
+msgid "Bounce icons when launching apps"
+msgstr "Errebotea egin ikonoek aplikazioak abiaraztean"

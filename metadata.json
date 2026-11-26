@@ -1,0 +1,11 @@
+{
+  "uuid": "dock-hover-zoom@cloudie-code",
+  "name": "DockHoverZoom",
+  "description": "Magnify dock icons as the pointer moves across them. Optionally hide icon backgrounds or make icons bounce while apps start.",
+  "shell-version": [
+    "51"
+  ],
+  "gettext-domain": "dock-hover-zoom",
+  "settings-schema": "org.gnome.shell.extensions.dock-hover-zoom",
+  "url": "https://github.com/Cloudie-Code/DockHoverZoom"
+}

@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Δημήτριος-Ρωμανός Ησαΐας <dirosissaias@cosmotemail.gr>, 2017.
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash to Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-04 12:35+0100\n"
+"PO-Revision-Date: 2017-09-29 21:48+0300\n"
+"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
+"Language-Team:\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui
+msgid "Magnify icons on hover"
+msgstr "Μεγέθυνση εικονιδίων κατά την αιώρηση"
+
+#: Settings.ui
+msgid "Enlarge the icons under the mouse pointer, like the macOS dock."
+msgstr ""
+"Μεγέθυνση των εικονιδίων κάτω από τον δείκτη του ποντικιού, όπως στο dock "
+"του macOS."
+
+#: Settings.ui
+msgid "Magnification size"
+msgstr "Μέγεθος μεγέθυνσης"
+
+#: prefs.js
+msgid "Hide icon backgrounds"
+msgstr "Απόκρυψη φόντου εικονιδίων"
+
+#: prefs.js
+msgid "Bounce icons when launching apps"
+msgstr "Αναπήδηση εικονιδίων κατά την εκκίνηση εφαρμογών"

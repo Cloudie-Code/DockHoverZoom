@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.dock-hover-zoom" path="/org/gnome/shell/extensions/dock-hover-zoom/">
+    <key name="hover-zoom-scale" type="d">
+      <range min="1.1" max="3.0"/>
+      <default>1.6</default>
+    </key>
+    <key name="hide-icon-backgrounds" type="b">
+      <default>false</default>
+    </key>
+    <key name="bounce-on-launch" type="b">
+      <default>false</default>
+    </key>
+  </schema>
+</schemalist>

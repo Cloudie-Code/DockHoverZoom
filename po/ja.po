@@ -1,0 +1,41 @@
+# Dash to Dock master ja.po
+# Copyright (C) 2013-2017, 2019-2020 THE dash-to-dock'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the dash-to-dock package.
+# Jiro Matsuzawa <jmatsuzawa@gnome.org>, 2013.
+# Debonne Hooties <debonne.hooties@gmail.com>, 2014-2017.
+# sicklylife <translation@sicklylife.jp>, 2019-2020.
+# Ryo Nakano <ryonakaknock3@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dash-to-dock master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-14 23:00+0900\n"
+"PO-Revision-Date: 2020-06-15 07:30+0900\n"
+"Last-Translator: sicklylife <translation@sicklylife.jp>\n"
+"Language-Team: Japanese <>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Settings.ui
+msgid "Magnify icons on hover"
+msgstr "ホバー時にアイコンを拡大する"
+
+#: Settings.ui
+msgid "Enlarge the icons under the mouse pointer, like the macOS dock."
+msgstr "macOS の Dock のように、マウスポインター下のアイコンを拡大します。"
+
+#: Settings.ui
+msgid "Magnification size"
+msgstr "拡大サイズ"
+
+#: prefs.js
+msgid "Hide icon backgrounds"
+msgstr "アイコンの背景を隠す"
+
+#: prefs.js
+msgid "Bounce icons when launching apps"
+msgstr "アプリの起動時にアイコンを跳ねさせる"
