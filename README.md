@@ -35,9 +35,3 @@ gnome-extensions pack \
   --extra-source=COPYING \
   --podir=po .
 ```
-
-The resulting `.shell-extension.zip` is also the package for submitting to GNOME Extensions.
-
-## License
-
-[GPL-2.0-or-later](COPYING). The zoom curve comes from Cloudie-Code’s [Hover-Zoom branch of Dash to Dock](https://github.com/Cloudie-Code/dash-to-dock/tree/Hover-Zoom). The translation catalogs retain their original credits.
